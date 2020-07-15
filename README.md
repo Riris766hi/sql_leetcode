@@ -1,7 +1,6 @@
 # LETCODE SQL Example Problems
 
-These are my solutions to the open sorce database problem set from Leetcode 
-https://leetcode.com/problemset/database/
+These are my solutions to the open sorce database problem set from LeetCode
 
 the solutions written in this respository will work on MS SQL Server
 
